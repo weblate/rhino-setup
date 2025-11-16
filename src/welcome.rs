@@ -76,7 +76,7 @@ impl SimpleComponent for WelcomeModel {
                 "환영합니다",
                 "أهلا بك",
                 "ברוך הבא",
-                "Καλώς ήρθατε",
+                "Καλώς ήρθες",
                 "Hoşgeldiniz",
                 "Welkom",
                 "Witamy",
